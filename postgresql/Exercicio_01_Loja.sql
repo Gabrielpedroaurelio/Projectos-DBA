@@ -24,6 +24,6 @@ create table faturamento.pedido_itens(
     id_pedido int references faturamento.pedidos(id_pedido),
     id_produto int references estoque.produtos(id_produto) ,
     quantidade int check(quantidade>0),
-    primary key (id_pedido_item,id_pedido)
+    primary key (id_produto,id_pedido)
 
 );
