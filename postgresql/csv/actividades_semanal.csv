@@ -1,0 +1,21 @@
+Data;DiadaSemana;Horario;Topico
+01/02/2026;Domingo;14h15-18h30;UNION, UNION ALL, INTERSECT, EXCEPT
+03/02/2026;Ter�a;13h-18h30;"Fun��es de janela: ROW_NUMBER, RANK, DENSE_RANK; ranking e agrega��es avan�adas"
+05/02/2026;Quinta;13h-18h45;"Consultas anal�ticas combinadas; subqueries correlacionadas"
+06/02/2026;Sexta;13h-18h30;Normaliza��o avan�ada e modelagem de dados (3NF, 4NF)
+07/02/2026;S�bado;14h15-18h30;"EXPLAIN e EXPLAIN ANALYZE; an�lise de performance de queries"
+08/02/2026;Domingo;14h15-18h30;Projeto pr�tico: dataset de teste com consultas complexas
+10/02/2026;Ter�a;13h-18h30;�ndices: B-Tree, compostos, quando criar, cardinalidade
+12/02/2026;Quinta;13h-18h45;"VACUUM, ANALYZE, autovacuum; manuten��o de banco"
+13/02/2026;Sexta;13h-18h30;Configura��es b�sicas para performance (work_mem, shared_buffers)
+14/02/2026;S�bado;14h15-18h30;Queries grandes e otimiza��o de performance
+15/02/2026;Domingo;14h15-18h30;Revis�o de performance e exerc�cios pr�ticos
+17/02/2026;Ter�a;13h-18h30;Subqueries avan�adas e CTEs aninhadas
+19/02/2026;Quinta;13h-18h45;Views e materialized views para an�lise r�pida
+20/02/2026;Sexta;13h-18h30;Triggers b�sicas, stored procedures
+21/02/2026;S�bado;14h15-18h30;Projeto pr�tico: consultas e views
+22/02/2026;Domingo;14h15-18h30;"Revis�o de fevereiro; checklist de consultas e �ndices"
+24/02/2026;Ter�a;13h-18h30;Fun��es agregadas avan�adas e performance
+26/02/2026;Quinta;13h-18h45;Otimiza��o de queries grandes
+27/02/2026;Sexta;13h-18h30;COPY em massa e ingest�o de dados
+28/02/2026;S�bado;14h15-18h30;Exerc�cio pr�tico de ingest�o e consultas anal�ticas
